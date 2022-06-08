@@ -1,0 +1,11 @@
+.jumbo{
+    height: 250px;
+}
+.short{
+    height: 400px;
+}
+.venue{
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
